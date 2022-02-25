@@ -59,17 +59,28 @@ h2{
     width: 300px;
   }
   h2{
+    text-align: center;
     margin-top: 20px;
     margin-left: auto;
     margin-right: auto;
     }
+  .p-00{
+    margin-top: 20px;
+    text-align: center;
+    margin-right: 10%;
+  }
   .p-01{
-    
+    margin-top: 30px;
+    text-align: center;
+    margin-left: 20px;
   }
   .img-01{
     margin-left: auto;
     margin-right: auto;
     width: 300px;
+  }
+  .img-00{
+   margin-left: 2rem;
   }
 }
 </style>

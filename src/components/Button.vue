@@ -183,4 +183,11 @@ body {
   }
 }
 
+@media screen and (max-width:700px){
+  div{
+    padding-top: 4rem;
+    margin-left: 7rem;
+    margin-right: auto;
+  }
+}
 </style>

@@ -35,7 +35,7 @@ background-size: cover;
 
 @media screen and (max-width:700px){
   .parallax{
-    min-height: 30px;
+    display: flex;
   }
 }
 </style>
